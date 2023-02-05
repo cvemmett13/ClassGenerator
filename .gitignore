@@ -1,0 +1,10 @@
+############### C# ######################
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+BudgetManagerApi/environment.json
+**/.idea/*
+/artifacts
+/common/build/*

@@ -1,0 +1,4 @@
+﻿IntCol,StringCol,FloatCol,DateCol,BoolCol
+1,hello,1.12,2022-12-01,true
+2,world,8.1236,2022-12-01T01:12:12,false
+3,foo,,2022-12-01T01:12:12,false
